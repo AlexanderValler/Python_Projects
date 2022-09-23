@@ -1,3 +1,3 @@
 # Python
-# Test of Github Python files
+# Past programs created for class in python
 #Author: Goldcraft (Alexander)
